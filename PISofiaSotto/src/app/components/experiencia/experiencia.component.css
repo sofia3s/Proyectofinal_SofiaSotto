@@ -1,0 +1,16 @@
+.row {
+    padding: 30px;
+    background-color: rgb(192, 178, 252);
+    margin: 0;
+}
+
+h4,h5{
+    display: inline;
+    margin:5px;
+}
+
+.trab1 {
+    width: 200px;
+    margin-left: 150px;
+}
+
